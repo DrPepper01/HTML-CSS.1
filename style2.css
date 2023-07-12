@@ -1,0 +1,33 @@
+body{
+    margin-top: 200px;
+}
+table{
+    width: 1000px;
+    text-align: center;
+    height: 350px;
+    border-collapse: collapse;
+    margin: 0 auto;
+    background-image: url(books.jpg);
+}
+
+thead{
+    color: white;
+    background-color: rgb(71, 104, 255);
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500px;
+    text-transform: uppercase;
+}
+tbody{
+    height: 300px;
+}
+td{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 200px;
+    color: rgb(104, 104, 104);
+}
+.grey{
+    background-color: rgb(238, 238, 238);
+}
+.change_color{
+    color: rgb(0, 207, 190);
+}
